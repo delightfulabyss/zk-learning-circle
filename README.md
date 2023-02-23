@@ -1,6 +1,6 @@
 # Zero Knowledge Proof Learning Circle
 
-The Zero Knowledge Proof Learning Circle meets weekly on {Date and Time TBD}. Each week, we will review topics related to Zero Knowledge Proofs and their underpinnings. The curriculum includes The MoonMath Manual by Least Authority, ZK Whiteboard Sessions by ZK Hack, and repositories of various Zero Knowledge projects. Each week, we will read/watch the associated materials and do any associated exercises. During our weekly meeting, we will discuss what we learned.
+The Zero Knowledge Proof Learning Circle meets weekly on {Date and Time TBD}. Each week, we will review topics related to Zero Knowledge Proofs and their underpinnings.The aim is to get us enough of an understanding that we can begin to build Zero Knowledge applications. The curriculum for this learning circle includes The MoonMath Manual by Least Authority, ZK Whiteboard Sessions by ZK Hack, and repositories of various Zero Knowledge projects. Each week, we will read/watch the associated materials and do any associated exercises. During our weekly meeting, we will discuss what we learned.
 
 ## Learning Resources
 
