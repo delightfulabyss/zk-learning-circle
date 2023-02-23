@@ -21,7 +21,7 @@ The Zero Knowledge Proofs Learning Circle meets weekly on {Date and Time TBD}. E
 ### Week 2: MoonMath Manual Chapter 4: Algebra
 
 - Complete Chapter 4 Exercises
-        
+
 ### Week 3: MoonMath Manual Chapter 5: Elliptic Curves (Short Weierstrass Curves, Mongomery Curves, Twisted Edwards Curves)
 
 - Complete Chapter 5.1 - 5.3 Exercises
@@ -53,3 +53,5 @@ The Zero Knowledge Proofs Learning Circle meets weekly on {Date and Time TBD}. E
 - Complete Chapter 8 Exercises
 
 ### Week 12: ZK Project Showcase
+
+- Pick a cool ZK project from the ecosystem (it could be your own!) and do a short presentation on what it is and how it works
