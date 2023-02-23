@@ -11,17 +11,17 @@ The Zero Knowledge Proof Learning Circle meets weekly on {Date and Time TBD}. Ea
 
 ## Schedule
 
-### Week 1: MoonMath Manual Chapters 1-3
+### Week 1: MoonMath Manual Chapters 1-3: Introduction, Software Used, Arithmetics
 
 ### Week 2: MoonMath Manual Chapter 4: Algebra
 
-### Week 3: MoonMath Manual Chapter 5: Elliptic Curves (5.1 - 5.3)
+### Week 3: MoonMath Manual Chapter 5: Elliptic Curves (Short Weierstrass Curves, Mongomery Curves, Twisted Edwards Curves)
 
-### Week 4: MoonMath Manual Chapter 5: Elliptic Curves (5.4 - 5.6)
+### Week 4: MoonMath Manual Chapter 5: Elliptic Curves (Elliptic Curve Pairings, Hashing Curves, Constructing Elliptic Curves)
 
 ### Week 5: MoonMath Chapter 6: Statements
 
-### Week 8: MoonMath Chapter 8: Zero Knowledge Proofs (8.1) & ZK Whiteboard Session Module 1: What is a Snark?
+### Week 8: MoonMath Chapter 8: Zero Knowledge Proofs (Proof Systems) & ZK Whiteboard Session Module 1: What is a Snark?
 
 ### Week 9: ZK Whiteboard Session Module 2: Building a SNARK (Part 1)
 
